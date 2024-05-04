@@ -13,3 +13,10 @@ This repository contains a collection of weird JavaScript behaviors that you mig
 console.log(0.1 + 0.2 === 0.3); // Output: false
 ```
 When dealing with floating-point numbers in JavaScript, you may encounter precision issues due to the internal representation of numbers.
+
+### Problem 2
+####  NaN comparison::
+```javascript
+console.log(NaN === NaN); // Output: false
+```
+In JavaScript, NaN (Not a Number) is a special value used to represent the result of an operation that cannot produce a meaningful numeric result. 
