@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Weird JS</h1>
+  <h1 style="color: blue;">Weird <span style="color: yellow;">JS</span></h1>
 </div>
 
 ## Description
