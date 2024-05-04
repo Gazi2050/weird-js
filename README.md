@@ -10,3 +10,4 @@ This repository contains a collection of weird JavaScript behaviors that you mig
 ```javascript
 console.log(0.1 + 0.2 === 0.3); // Output: false
 ```
+When dealing with floating-point numbers in JavaScript, you may encounter precision issues due to the internal representation of numbers.
