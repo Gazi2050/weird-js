@@ -1,1 +1,12 @@
-"# weird-js" 
+# Weird JS
+
+## Description
+This repository contains a collection of weird JavaScript behaviors that you might encounter while working with the language. Each problem is accompanied by an explanation and code examples to demonstrate the behavior.
+
+## Problems
+
+### Problem 1
+#### Floating-point arithmetic precision issues:
+```javascript
+console.log(0.1 + 0.2 === 0.3); // Output: false
+```
