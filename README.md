@@ -1,6 +1,5 @@
-<div align="center">
-  <h1 style="color: blue;">Weird <span style="color: yellow;">JS</span></h1>
-</div>
+# <span style="color: blue;">Weird </span><span style="color: yellow;">JS</span>
+
 
 ## Description
 This repository contains a collection of weird JavaScript behaviors that you might encounter while working with the language. Each problem is accompanied by an explanation and code examples to demonstrate the behavior.
