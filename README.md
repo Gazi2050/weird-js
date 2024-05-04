@@ -1,4 +1,6 @@
-# Weird JS
+<div align="center">
+  <h1>Weird JS</h1>
+</div>
 
 ## Description
 This repository contains a collection of weird JavaScript behaviors that you might encounter while working with the language. Each problem is accompanied by an explanation and code examples to demonstrate the behavior.
