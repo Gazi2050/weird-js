@@ -20,3 +20,36 @@ When dealing with floating-point numbers in JavaScript, you may encounter precis
 console.log(NaN === NaN); // Output: false
 ```
 In JavaScript, NaN (Not a Number) is a special value used to represent the result of an operation that cannot produce a meaningful numeric result. 
+
+### Problem 3
+####  Type coercion:
+```javascript
+console.log(1 + '1'); // Output: '11'
+```
+In JavaScript, type coercion refers to the automatic conversion of values from one data type to another. This can sometimes lead to unexpected behavior in expressions and operations.
+
+### Problem 3
+####  Type coercion:
+```javascript
+console.log(1 + '1'); // Output: '11'
+```
+In JavaScript, type coercion refers to the automatic conversion of values from one data type to another. This can sometimes lead to unexpected behavior in expressions and operations.
+
+### Problem 4
+####  Implicit global variables:
+```javascript
+function test() {
+    a = 10;
+}
+test();
+console.log(a); // Output: 10
+```
+In JavaScript, variables declared without the var, let, or const keyword inside a function become global variables, even if they are assigned values inside a function scope.
+
+### Problem 5
+####  Truthy and falsy values:
+```javascript
+console.log(Boolean('false')); // Output: true
+console.log(Boolean('')); // Output: false
+```
+In JavaScript, certain values are considered falsy, such as an empty string, undefined, null, 0, NaN, and false. All other values are considered truthy.
